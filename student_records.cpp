@@ -1,3 +1,5 @@
+//Code was created while following along a LinkedIn Learning course. I did not write 100% of the code by myself
+
 #include <iostream>
 #include <string>
 #include <vector>
